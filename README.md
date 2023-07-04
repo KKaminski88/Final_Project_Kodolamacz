@@ -1,2 +1,2 @@
 # Final_Project_Kodolamacz
-Final project of Data Science bootcamp by Sages (https://www.kodolamacz.pl)
+Krzysztof Kamiński final project - Data Science bootcamp (https://www.kodolamacz.pl)
